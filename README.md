@@ -8,9 +8,7 @@
 
 💬 Feel free to ask me about full-stack development, responsive design practices, RESTful API integration, or any tech-related queries. I'm always open to discussing new technologies and development methodologies.
 
-📫 How to reach me: Please contact me via my email [Your Email] or connect with me on LinkedIn at [Your LinkedIn Profile].
-
-😄 Pronouns: He/Him
+📫 How to reach me: Please contact me via my email [thuo.ke360@gmail.com]
 
 ⚡ Fun fact: Beyond coding, I'm an avid explorer of the digital art world and enjoy bringing creativity to code through UI/UX design innovations.
 
